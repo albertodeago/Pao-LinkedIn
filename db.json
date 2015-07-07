@@ -1,0 +1,143 @@
+{
+    "admin": {
+        "password": "password",
+        "username": "admin"
+    },
+    "users": [
+        {
+            "accountType": 0,
+            "address": "galta di stra",
+            "avatarPath": "/server2/2/2012/adeagost/P2/progetto2015/images/trung-binh-tan.jpg",
+            "birthday": "1988.04.26",
+            "email": "angi@gmail.com",
+            "experiences": [
+                {
+                    "from": "2010.01.01",
+                    "location": "rgis",
+                    "role": "auditor",
+                    "to": "2012.01.01"
+                }
+            ],
+            "friends": [
+                "boss"
+            ],
+            "interests": [
+                "arti marziali",
+                "sport"
+            ],
+            "languages": [
+                "italiano",
+                "dialetto",
+                "inglese",
+                "vietnamita"
+            ],
+            "name": "Federico",
+            "password": "angi",
+            "skills": [
+                "elettronica",
+                "elettrotecnica",
+                "arduino"
+            ],
+            "surname": "Angi",
+            "telephon": "1234567",
+            "username": "fede"
+        },
+        {
+            "accountType": 1,
+            "address": "",
+            "avatarPath": "",
+            "birthday": "1989.11.04",
+            "email": "",
+            "experiences": [
+                {
+                    "from": "2011.04.10",
+                    "location": "farmacia padova",
+                    "role": "farmacista",
+                    "to": "2015.05.15"
+                }
+            ],
+            "friends": [
+                "fede"
+            ],
+            "interests": [
+            ],
+            "languages": [
+                "italiano",
+                "russo"
+            ],
+            "name": "Federica",
+            "password": "buggi",
+            "skills": [
+                "vendita",
+                "farmaci",
+                "promoter"
+            ],
+            "surname": "Bruggi",
+            "telephon": "746294761",
+            "username": "federica"
+        },
+        {
+            "accountType": 2,
+            "address": "via nizza 13 (PD)",
+            "avatarPath": "/server2/2/2012/adeagost/P2/progetto2015/images/bigstock-portrait-of-man-smoking-cigar-12156542-200x200.jpg",
+            "birthday": "1960.03.04",
+            "email": "boss@alice.it",
+            "experiences": [
+                {
+                    "from": "2000.01.01",
+                    "location": "thron",
+                    "role": "boss",
+                    "to": "2020.12.31"
+                }
+            ],
+            "friends": [
+                "fede",
+                "federica"
+            ],
+            "interests": [
+                "arricchimento"
+            ],
+            "languages": [
+                "italiano",
+                "inglese",
+                "spagnolo",
+                "tedesco"
+            ],
+            "name": "Boss",
+            "password": "boss",
+            "skills": [
+                "dirigere",
+                "boss",
+                "c++",
+                "php/perl",
+                "c#"
+            ],
+            "surname": "Hog",
+            "telephon": "463856327",
+            "username": "boss"
+        },
+        {
+            "accountType": 1,
+            "address": "piazzola sul brenta",
+            "avatarPath": "",
+            "birthday": "1988.11.13",
+            "email": "alberto.deagostini@studenti.unipt.it",
+            "experiences": [
+            ],
+            "friends": [
+                "federica"
+            ],
+            "interests": [
+            ],
+            "languages": [
+            ],
+            "name": "Alberto",
+            "password": "password",
+            "skills": [
+            ],
+            "surname": "De Agostini",
+            "telephon": "38637826",
+            "username": "adeagost"
+        }
+    ]
+}

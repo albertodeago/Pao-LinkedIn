@@ -1,0 +1,20 @@
+* {
+    background: #999;
+    color: #333;
+}
+QLabel{
+	color: #000
+}
+QPushButton {
+    color: #444; 
+    font-weight: 700;
+}
+QPushButton:hover {
+    color: #e6e6e6;
+}
+QPushButton:pressed {
+    background-color: transparent;
+}
+QPushButton:focus {
+    color: #fff;
+}
